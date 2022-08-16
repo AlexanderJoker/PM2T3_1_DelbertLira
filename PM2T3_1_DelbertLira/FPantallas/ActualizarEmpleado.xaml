@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="PM2T3_1_DelbertLira.Pantallas.ActualizarEmpleado">
+             x:Class="PM2T3_1_DelbertLira.Pantallas.ActualizarEmpleado"
+             BackgroundImageSource="https://previews.123rf.com/images/oly5/oly51604/oly5160400460/54694706-resumen-fondo-color-azul-claro-del-grunge-dise%C3%B1o-de-textura-vintage-fondo.jpg">
 
     <ContentPage.Content>
         <StackLayout BackgroundColor="#D1F2EB">

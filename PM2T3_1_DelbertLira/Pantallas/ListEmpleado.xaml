@@ -4,6 +4,7 @@
              x:Class="PM2T3_1_DelbertLira.Pantallas.ListEmpleado"
              Title= "Lista de empleados"
              xmlns:local="clr-namespace:PM2T3_1_DelbertLira.FPantallas"
+             BackgroundImageSource="https://previews.123rf.com/images/oly5/oly51604/oly5160400460/54694706-resumen-fondo-color-azul-claro-del-grunge-dise%C3%B1o-de-textura-vintage-fondo.jpg"
              >
     
     <ContentPage.Content>
